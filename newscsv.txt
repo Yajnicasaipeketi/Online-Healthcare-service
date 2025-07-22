@@ -1,0 +1,69 @@
+what if I say severity range 1-5 is less, mild , moderate, high, very high respectively ; duration of 1 to 5 days means short-term, more than 5 days to two months means medium-term and more than two months means long-term ; frequency rare means twice a year , sometimes means 3 to 8 times a year and more than 8 times a year means often. Now can you see all the diseases and as an expert chatbot, I wan to you to provide me values for every disease more carfully for more accurate model
+
+
+Flu: 3,short-term,sometimes (Moderate severity, typically lasts 5-7 days, occurs 1-3 times a year for most people)
+
+Diabetes: 4,long-term,often (High severity due to potential complications, lifelong condition, daily management required)
+
+Hypertension: 3,long-term,often (Moderate severity, lifelong condition, daily management required)
+
+Cold: 2,short-term,often (Mild severity, typically lasts 3-7 days, can occur multiple times a year)
+
+Asthma: 3,long-term,sometimes (Moderate severity, lifelong condition, frequency of attacks varies)
+
+Pneumonia: 4,medium-term,rare (High severity, typically lasts 1-4 weeks, not frequent for most people)
+
+Bronchitis: 3,medium-term,sometimes (Moderate severity, acute cases last 2-3 weeks, can occur several times a year)
+
+Tuberculosis: 5,long-term,rare (Very high severity, treatment lasts 6-9 months, rare in developed countries)
+
+COVID-19: 4,medium-term,rare (High severity, typical cases last 2-6 weeks, ideally rare occurrence)
+
+Migraine: 3,long-term,sometimes (Moderate severity, chronic condition, frequency varies but often 3-8 times a year)
+
+Chickenpox: 3,short-term,rare (Moderate severity, lasts about 5-7 days, typically occurs once in a lifetime)
+
+Measles: 4,short-term,rare (High severity due to complications, lasts about 7-10 days, rare with vaccination)
+
+Malaria: 4,medium-term,rare (High severity, symptoms can last weeks if untreated, rare in non-endemic areas)
+
+Dengue: 4,short-term,rare (High severity, acute phase lasts 3-7 days, rare in non-endemic areas)
+
+Cholera: 5,short-term,rare (Very high severity due to rapid dehydration, acute phase lasts 2-7 days, rare with proper sanitation)
+
+Hepatitis: 4,long-term,rare (High severity, can become chronic lasting months to years, rare occurrence)
+
+Jaundice: 3,medium-term,rare (Moderate severity, typically lasts 2-8 weeks, not a frequent occurrence)
+
+Anemia: 3,long-term,sometimes (Moderate severity, can be chronic, frequency depends on underlying cause)
+
+Arthritis: 3,long-term,often (Moderate severity, chronic condition, daily impact for many sufferers)
+
+Sinusitis: 2,medium-term,sometimes (Mild severity, acute cases last 2-4 weeks, can occur several times a year)
+
+Gastritis: 3,medium-term,sometimes (Moderate severity, acute cases last 2-4 weeks, can occur several times a year)
+
+Ulcer: 3,medium-term,sometimes (Moderate severity, healing typically takes 4-8 weeks, can recur several times a year)
+
+Celiac Disease: 3,long-term,often (Moderate severity, lifelong condition, symptoms occur with every gluten exposure)
+
+Lupus: 4,long-term,often (High severity, lifelong condition, frequent flare-ups for many patients)
+
+Hypothyroidism: 3,long-term,often (Moderate severity, lifelong condition, daily management required)
+
+Hyperthyroidism: 3,long-term,often (Moderate severity, can be long-term, symptoms often persistent until treated)
+
+Psoriasis: 2,long-term,often (Mild to moderate severity, chronic condition with frequent flare-ups)
+
+Epilepsy: 4,long-term,sometimes (High severity due to seizure risk, lifelong for many, seizure frequency varies)
+
+Alzheimer's: 5,long-term,often (Very high severity, progressive lifelong condition, symptoms increase in frequency)
+
+Parkinson's: 4,long-term,often (High severity, progressive lifelong condition, symptoms often daily)
+
+
+
+
+
+
+---------measles done (13 done)
